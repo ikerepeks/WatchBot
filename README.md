@@ -10,3 +10,18 @@ Ora Ora Group Members:
 3. Haris
 4. Harith
 
+Core Technology:
+1. RaberryPi
+2. LiDAR Sensor
+3. SSD/SD Card
+4. Camera Module
+5. Wireless Module
+
+Software Requirement:
+
+1. Linux 
+2. Python 3.++
+3. Some random sdk and library
+
+
+
